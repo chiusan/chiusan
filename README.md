@@ -16,4 +16,4 @@ HTML, CSS, JavaScript
 
 ## Connect
 
-- [email](yucheng9824@gmail.com)
+- [email](mailto:yucheng9824@gmail.com)
